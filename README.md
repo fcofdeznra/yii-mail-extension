@@ -8,6 +8,8 @@ It uses [PEAR Mail](http://pear.php.net/manual/en/package.mail.php) (not bundled
 Installation
 ------------
 
+* Install [PEAR Mail](http://pear.php.net/package/Mail/) and [PEAR Mail_Mime](http://pear.php.net/package/Mail_Mime/).
+
 * Unpack mail extension under your extensions directory.
 
 * Configure *Mailer* component (see PHPDoc):
